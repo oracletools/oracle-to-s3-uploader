@@ -245,7 +245,7 @@ def get_ora_pipe():
 	set heading off line 32767 echo off feedback off  feed off pagesize 0 serveroutput off show off 
 	set define off head off serveroutput off
 	SET LONG 50000	
-	SET VERIFY OFF
+	SET VERIFY OFF ARRAYSIZE 5000
 	%s
 	SELECT %s str FROM (%s) %s;
 	exit;
