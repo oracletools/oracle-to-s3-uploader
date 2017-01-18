@@ -1,6 +1,6 @@
 """#############################################################################
 #Oracle-to-S3 Data Uploader (v1.2, beta, 04/05/2016 15:11:53)
-#Copyright (c): 2016 Alex Buzunov. Free to use, change or distribute.
+#Copyright (c): 2016 Alex Buzunov. Free to use, change or distribute.(star this repo)
 #Agreement: Use this tool at your own risk. Author is not liable for any damages 
 #           or losses related to the use of this software.
 ################################################################################
