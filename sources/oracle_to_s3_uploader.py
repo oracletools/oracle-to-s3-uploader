@@ -7,7 +7,7 @@
 Usage:  
   set AWS_ACCESS_KEY_ID=<you access key>
   set AWS_SECRET_ACCESS_KEY=<you secret key>
-  set ORACLE_LOGIN=tiger/scott@orcl
+  set ORACLE_LOGIN=scott/tiger@orcl
   set ORACLE_CLIENT_HOME=C:\\app\\oracle12\\product\\12.1.0\\dbhome_1
   
   oracle_to_s3_uploader.exe [<ora_query_file>] [<ora_col_delim>] [<ora_add_header>] 
