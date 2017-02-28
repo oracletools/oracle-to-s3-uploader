@@ -4,6 +4,8 @@
 
 NOTE: You need [Oracle Instant Client](http://www.oracle.com/technetwork/database/features/instant-client/index-097480.html) in  order to use it
  (sqlplus.exe has to be in system path)
+ 
+ For clientless cx_Oracle  version check [Oracle-to-S3-Backup](https://github.com/alexbuz/Oracle-To-S3-Backup/blob/master/ora2s3.py) script.
 
 Features:
  - Streams Oracle table (query) data to Amazon-S3.
