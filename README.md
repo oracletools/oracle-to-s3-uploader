@@ -17,6 +17,8 @@ Features:
 
 
 ##Other scripts
+  - [TableHunter for Oracle](https://github.com/alexbuz/TableHunter-For-Oracle).
+
   - [Oracle -> Redshift](https://github.com/alexbuz/Oracle-To-Redshift-Data-Loader/blob/master/README.md) data loader.
   - [PostgreSQL -> Redshift](https://github.com/alexbuz/PostgreSQL_To_Redshift_Loader/blob/master/README.md) data loader.
   - [MySQL -> Redshift](https://github.com/alexbuz/MySQL_To_Redshift_Loader/blob/master/README.md) data loader.
