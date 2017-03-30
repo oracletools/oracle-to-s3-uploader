@@ -16,7 +16,7 @@ Features:
  - Written using Python/boto/PyInstaller.
 
 
-##Other scripts
+## Other scripts
   - [TableHunter for Oracle](https://github.com/alexbuz/TableHunter-For-Oracle).
 
   - [Oracle -> Redshift](https://github.com/alexbuz/Oracle-To-Redshift-Data-Loader/blob/master/README.md) data loader.
@@ -28,7 +28,7 @@ Features:
   - [Oracle->MySQL] (https://github.com/alexbuz/Oracle-to-MySQL-DataMigrator/blob/master/README.txt) data loader.
   - [CSV->S3] (https://github.com/alexbuz/S3_File_Uploader/blob/master/README.md) data uploader.
 
-##Purpose
+## Purpose
 
 - Stream (upload) Oracle table data to Amazon-S3.
 
@@ -45,14 +45,14 @@ Features:
 	* Boto S3 docs: http://boto.cloudhackers.com/en/latest/ref/s3.html
 - Executable is created using [pyInstaller] (http://www.pyinstaller.org/)
 
-##Audience
+## Audience
 
 Database/ETL developers, Data Integrators, Data Engineers, Business Analysts, AWS Developers, DevOps, 
 
-##Designated Environment
+## Designated Environment
 Pre-Prod (UAT/QA/DEV)
 
-##Usage
+## Usage
 
 ```
 c:\Python35-32\PROJECTS\Ora2S3>dist\oracle_to_s3_uploader.exe
@@ -89,10 +89,10 @@ Usage:
         Oracle data uploaded to S3 is always compressed (gzip).
 
 ```
-#Example
+# Example
 
 
-###Environment variables
+### Environment variables
 
 * Set the following environment variables (for all tests):
 set_env.bat:
@@ -159,7 +159,7 @@ Your PUBLIC upload is at: https://s3-us-west-2.amazonaws.com/test_bucket/oracle_
 
 
 
-###Download
+### Download
 * `git clone https://github.com/alexbuz/Oracle_To_S3_Data_Uploader`
 * [Master Release](https://github.com/alexbuz/Oracle_To_S3_Data_Uploader/archive/master.zip) -- `oracle_to_s3_uploader 1.2`
 
@@ -171,10 +171,10 @@ Your PUBLIC upload is at: https://s3-us-west-2.amazonaws.com/test_bucket/oracle_
 #
 #
 #   
-#FAQ
+# FAQ
 #  
 
-####I'm getting the error
+#### I'm getting the error
 """WindowsError: [Error2] System cannot find file specified"""
 Solution is to call sqlplus from command line to make sure it's in system path and tool can find it when it's opening data extract shell.
 ```
