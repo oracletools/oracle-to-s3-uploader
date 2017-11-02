@@ -48,7 +48,7 @@ Features:
 
 ## Audience
 
-Database/ETL developers, Data Integrators, Data Engineers, Business Analysts, AWS Developers, DevOps, 
+Database/ETL developers, Data Integrators, Data Engineers, Business Analysts, AWS Developers, DevOps, DataOps
 
 ## Designated Environment
 Pre-Prod (UAT/QA/DEV)
