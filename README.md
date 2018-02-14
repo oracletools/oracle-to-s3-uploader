@@ -17,11 +17,9 @@ Features:
 
 
 ## Other scripts
-  - [ApLogr](https://github.com/alexbuz/aplogr/blob/master/README.md) Eyeball your Linux shell batch logs on Windows.
+  - [ApLogr](https://github.com/alexbuz/aplogr/blob/master/README.md) **Eyeball your Linux shell batch logs on Windows**.
   - [DataWorm for Oracle](https://github.com/alexbuz/DataWorm/blob/master/README.md) ad-hoc backup.
-  - [TableHunter for Oracle](https://github.com/alexbuz/TableHunter-For-Oracle) Win OS slooler
-
-  - [ApLogr](https://github.com/alexbuz/aplogr/blob/master/README.md) - **Eyeball your Linux shell batch logs on Windows**.
+  - [TableHunter for Oracle](https://github.com/alexbuz/TableHunter-For-Oracle) Win OS sloole
   
   - [PostgreSQL -> Redshift](https://github.com/alexbuz/PostgreSQL_To_Redshift_Loader/blob/master/README.md) - data loader
   - [MySQL -> Redshift](https://github.com/alexbuz/MySQL_To_Redshift_Loader/blob/master/README.md) - data loader
