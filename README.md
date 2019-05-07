@@ -53,6 +53,11 @@ Database/ETL developers, Data Integrators, Data Engineers, Business Analysts, AW
 ## Designated Environment
 Pre-Prod (UAT/QA/DEV)
 
+
+
+[<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">](https://www.buymeacoffee.com/0nJ32Xg)
+
+
 ## Usage
 
 ```
@@ -247,6 +252,7 @@ https://github.com/pydemo/teardown
 
 
 
+[<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png">](https://www.buymeacoffee.com/0nJ32Xg)
 
 
 
